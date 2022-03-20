@@ -16,7 +16,7 @@ pip install vtk==8.1.2
 
 请在你喜欢的Python IDE中打开并运行main.py。点击"Open"按钮选择你需要打开的文件。需要注意的是，文件路径中最好不要有中文。
 
-<img src="C:\Users\Liu\Desktop\pointcloudAPP\APP.png" alt="alt" style="zoom:60%;" />
+<img src="E:\pointcloudAPP\APP.png" alt="alt" style="zoom:60%;" />
 
 # 其他
 

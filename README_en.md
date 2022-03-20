@@ -16,7 +16,7 @@ pip install vtk==8.1.2
 
 Please open and run "main.py" in your favorite Python IDE, and click the "Open" button to select the file you want to visualize. It is important to note that better not to have Chinese in the file path.
 
-<img src="C:\Users\Liu\Desktop\pointcloudAPP\APP.png" alt="alt" style="zoom:60%;" />
+<img src="E:\pointcloudAPP\APP.png" alt="alt" style="zoom:60%;" />
 
 # Others
 
